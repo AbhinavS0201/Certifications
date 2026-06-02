@@ -5,7 +5,7 @@ A collection of my professional certifications, badges, and learning achievement
 ### Introduction to Cybersecurity
 - Issued: May 2026
 - Credential Type: Verified Digital Badge & Certificate
-<img src="C:\Users\abhin\OneDrive\Desktop\Imp\introduction-to-cybersecurity.png" width="150">
+<img src="C:/Users/abhin/OneDrive/Desktop/Imp/introduction-to-cybersecurity.png" width="150">
 📂 Files:
 - badge.png
 - certificate.pdf
