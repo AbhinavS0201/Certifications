@@ -5,7 +5,7 @@ A collection of my professional certifications, badges, and learning achievement
 ### Introduction to Cybersecurity
 - Issued: May 2026
 - Credential Type: Verified Digital Badge & Certificate
-<img src="introduction-to-cybersecurity.png" width="150">
+<img src="Cisco/Introduction_to_Cybersecurity/introduction-to-cybersecurity.png" width="150">
 
 ---
 
