@@ -1,7 +1,17 @@
 # 🏅 Certifications
 
 A collection of my professional certifications, badges, and learning achievements.
-
+Certifications/
+│
+├── Cisco-Introduction-to-Cybersecurity/
+│   ├── badge.png
+│   └── certificate.pdf
+│
+├── Microsoft-365-Copilot-Chat-Explorer/
+│   └── certificate.pdf
+│
+└── Deloitte-Data-Analytics-Job-Simulation/
+    └── certificate.pdf
 ## 🔐 Cisco Networking Academy
 
 ### Introduction to Cybersecurity
@@ -35,3 +45,4 @@ Skills:
 
 📂 Files:
 - certificate.pdf
+
